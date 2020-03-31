@@ -4,9 +4,6 @@ We want our company, [EverestEngineering](https://everest.engineering), to be a 
 
 This is our manifesto.
 
----
-
-
 # Our culture
 
 ## Principles
@@ -34,8 +31,6 @@ Details matter and so does the big picture. We need to zoom in and out to make t
 ### There is no one best way
 
 Make mindful decisions in everything. Even this set of principles and practices are subject to challenge. Do the right thing. Or, when it’s a choice between hard decisions do the better thing above all else.
-
----
 
 ## Practices
 
@@ -86,8 +81,6 @@ Saying yes is making a commitment to deliver. You damage your and our reputation
 ### Speak up when something smells
 
 Challenge when something doesn’t make sense or isn’t working. Accepting problems as the status quo contributes to the issue.
-
----
 
 # Engineering Principles and Practices
 
@@ -142,8 +135,6 @@ Learn a wide range of techniques and practices to expand our individual and coll
 ### Automation
 
 We automate whenever we find ourselves repeating tedious work. This includes provisioning of infrastructure and its monitoring, and the deployment of our software.
-
----
 
 ## Practices
 
