@@ -217,3 +217,9 @@ We integrate continuously, creating rapid feedback cycles that give us confidenc
 ### Inclusiveness through accessibility
 
 15% of the global population is affected by a disability. We seek to make our software more accessible to these 1 billion people by considering their needs in our UX designs and our technology choices.
+
+---
+
+> If you like our culture, principles, and practices, talk to us `hi@everest.engineering`.
+
+[![License: EverestEngineering](https://img.shields.io/badge/Copyright%20%C2%A9-EVERESTENGINEERING-blue)](https://everest.engineering)
