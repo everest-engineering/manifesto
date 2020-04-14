@@ -44,7 +44,7 @@ We believe that supporting others to be successful is the fastest way to high pe
 
 ### Deliver accountability, receive autonomy
 
-By being accountable, we are able to take on more autonomy and make more ambitious contributions.
+By being accountable, we can take on more autonomy and make more ambitious contributions.
 
 ### Transparency
 
@@ -58,7 +58,7 @@ We believe that continuous improvement in all things is a critical part of busin
 
 Always know why you are doing things but don’t get stuck analysing and questioning. Keep moving forward.
 
-### Find the nexus of science, art and craft
+### Find the nexus of science, art, and craft
 
 Different problems require different approaches. We seek the right balance across these disciplines based on the situation we are in.
 
@@ -68,7 +68,7 @@ Joy brings energy and helps us work more effectively together.
 
 ### Work directly with clients
 
-All team members have direct communication with our customers and end users. This is vital to gain a deep understanding of the domain and stakeholder needs.
+All team members have direct communication with our customers and end-users. This is vital to gain a deep understanding of the domain and stakeholder needs.
 
 ### Tackle assumptions and ambiguity
 
@@ -80,7 +80,7 @@ Enable rapid feedback cycles by delivering often. Frequent shipping is, in turn,
 
 ### Say no when you cannot commit
 
-Saying yes is making a commitment to deliver. You damage your and our reputation if that commitment cannot be delivered.
+Saying yes is committing to deliver. You damage your and our reputation if that commitment cannot be delivered.
 
 ### Speak up when something smells
 
@@ -92,7 +92,7 @@ Challenge when something doesn’t make sense or isn’t working. Accepting prob
 
 ![alt text](./images/EngineeringPrinciples.jpg "EverestEngineering Engineering Priciples")
 
-Our engineering principles are intended to provide guidance. Our aim is to apply these principles as default in the absence of a good rationale not to.
+Our engineering principles are intended to provide guidance. We aim to apply these principles as default in the absence of a good rationale not to.
 
 _Context is key in all matters_.
 
@@ -104,7 +104,7 @@ For instance, don’t attempt to deliver a fully industrialised system with AI a
 
 Software becomes more complicated as an outcome of a system gaining functionality. Complexity, in contrast, is a result of poor design increases coupling, impedes understanding, increases risk and ultimately leads to failure.
 
-### Favor simplicity
+### Favour simplicity
 
 Simpler _techniques_ are easier to learn, more flexible, and often more extensible than more complicated approaches. All things being equal, try simpler approaches first.
 
@@ -114,7 +114,7 @@ This holds especially true when working on fragile code bases. We must understan
 
 We use well supported and battle tested open source libraries rather than implementing our own solutions. This avoids wasted effort due to duplication and allows teams to focus on their prime purpose.
 
-We contribute back to open source projects when opportunities arise so as to build self worth, promote community and enhance our reputation.
+We contribute back to open source projects when opportunities arise to build self worth, promote community and enhance our reputation.
 
 ### Reflect and improve
 
@@ -126,7 +126,7 @@ Accept that change may not be possible.
 
 ### Autonomous teams
 
-Our teams are driven by purpose with a responsibility to deliver value to customers. We believe that this requires them to be in control of their own destiny with full ownership of their deliverables and methods of operation.
+Our teams are driven by purpose with a responsibility to deliver value to customers. We believe that this requires them to be in control of their destiny with full ownership of their deliverables and methods of operation.
 
 Teams are free to pick tooling and processes appropriate to the context of the customer and the work. New ideas are evaluated with curiosity yet tempered with caution.
 
@@ -172,8 +172,8 @@ Microservices should meet the following criteria for goodness:
 
 - they are modeled around a business domain, i.e., a bounded context;
 - their infrastructure, testing, monitoring, deployment and scaling is heavily automated;
-- their implementation details are hidden by not exposing or allowing database level integration and by not sharing entities across domain boundaries;
-- they are independently deployable, decoupled from each other and fault tolerant;
+- their implementation details are hidden by not exposing or allowing database-level integration and by not sharing entities across domain boundaries;
+- they are independently deployable, decoupled from each other and fault-tolerant;
 - they are highly observable and monitorable through log aggregation and correlation IDs;
 - they are isolated from failures using circuit breakers, timeouts, and bulkheads;
 - they are consumer oriented with documented APIs and contract tested.
